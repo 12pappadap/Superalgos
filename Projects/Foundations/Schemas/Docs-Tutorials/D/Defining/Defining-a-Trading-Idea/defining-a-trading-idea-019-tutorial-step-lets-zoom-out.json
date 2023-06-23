@@ -15,9 +15,19 @@
                 "updated": 1639252880126
             },
             {
+                "language": "RU",
+                "text": "Мы имеем представление о том, что происходит на часовом графике. Давайте немного увеличим масштаб и посмотрим на промежуточную перспективу.",
+                "updated": 1640890947841
+            },
+            {
                 "language": "TR",
                 "text": "Özet: 1 saatlik zaman çerçevesinde neler olup bittiğine dair bir fikrimiz var. Biraz uzaklaşıp orta vadeye bir göz atalım.",
                 "updated": 1640947862345
+            },
+            {
+                "language": "ES",
+                "text": "Tenemos una idea de lo que ocurre en el marco temporal de 1H. Vamos a alejarnos un poco y echar un vistazo al plazo intermedio.",
+                "updated": 1668191372889
             }
         ]
     },
@@ -32,9 +42,19 @@
                     "updated": 1639252893103
                 },
                 {
+                    "language": "RU",
+                    "text": "Я только что привел вам 4-часовой график, на те же даты. Обратите внимание на следующее:",
+                    "updated": 1640890979297
+                },
+                {
                     "language": "TR",
                     "text": "Seni aynı tarihlerde 4H grafiğine getirdim. Aşağıdakilere dikkat edin:",
                     "updated": 1640947881342
+                },
+                {
+                    "language": "ES",
+                    "text": "Acabo de llevarle al gráfico de 4H, en las mismas fechas. Observa lo siguiente:",
+                    "updated": 1668191436417
                 }
             ]
         },
@@ -48,9 +68,19 @@
                     "updated": 1639252904620
                 },
                 {
+                    "language": "RU",
+                    "text": "Пробой: Пробой, который мы видели на графике 1H, также очевиден и на графике 4H.",
+                    "updated": 1640891000194
+                },
+                {
                     "language": "TR",
                     "text": "Arıza: 1H çizelgesinde gördüğümüz arıza, 4H çizelgesinde de belirgindir.",
                     "updated": 1640947893385
+                },
+                {
+                    "language": "ES",
+                    "text": "Ruptura: La ruptura que vimos en el gráfico de 1H es evidente también en el gráfico de 4H.",
+                    "updated": 1668191454650
                 }
             ]
         },
@@ -64,9 +94,19 @@
                     "updated": 1639252911166
                 },
                 {
+                    "language": "RU",
+                    "text": "Недалекое прошлое: До пробоя 10 апреля рынок некоторое время колебался.",
+                    "updated": 1640891016578
+                },
+                {
                     "language": "TR",
                     "text": "Hemen geçmiş:10 Nisan'daki çöküş öncesi piyasa bir süredir hareketliydi.",
                     "updated": 1640947908913
+                },
+                {
+                    "language": "ES",
+                    "text": "Pasado inmediato: Antes de la ruptura del 10 de abril, el mercado había estado oscilando dentro de un rango durante un tiempo.",
+                    "updated": 1668191512621
                 }
             ]
         },
@@ -80,9 +120,19 @@
                     "updated": 1639252918205
                 },
                 {
+                    "language": "RU",
+                    "text": "До этого: Рынок имел тенденцию к росту - то есть промежуточный краткосрочный тренд был восходящим.",
+                    "updated": 1640891031767
+                },
+                {
                     "language": "TR",
                     "text": "Bundan önce: Piyasa yükseliş eğilimindeydi - yani orta vadeli bir yükseliş trendindeydi.",
                     "updated": 1640947927156
+                },
+                {
+                    "language": "ES",
+                    "text": "Antes de eso: El mercado tenía una tendencia ascendente, es decir, el plazo intermedio estaba en una tendencia alcista.",
+                    "updated": 1668191551564
                 }
             ]
         },
@@ -96,9 +146,19 @@
                     "updated": 1639252924187
                 },
                 {
+                    "language": "RU",
+                    "text": "Нисходящий тренд: Пробой 10 апреля ознаменовал начало нисходящего тренда в среднесрочной перспективе.",
+                    "updated": 1640891045651
+                },
+                {
                     "language": "TR",
                     "text": "Düşüş trendi: 10 Nisan'daki kırılma, orta vadede düşüş trendinin başlangıcını işaret etti.",
                     "updated": 1640947941113
+                },
+                {
+                    "language": "ES",
+                    "text": "Tendencia bajista: La ruptura del 10 de abril marcó el inicio de una tendencia bajista a medio plazo.",
+                    "updated": 1668191566208
                 }
             ]
         }

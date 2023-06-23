@@ -34,6 +34,11 @@
                 "language": "ID",
                 "text": "Trading Parameters menentukan aspek kunci dari bagaimana trading session dijalankan. Mari kita lihat sekilas...",
                 "updated": 1639747547017
+            },
+            {
+                "language": "NL",
+                "text": "Trading Parameters bepalen de belangrijkste aspecten van hoe de handelssessie wordt uitgevoerd. Laten we een snelle, oppervlakkige blik werpen....",
+                "updated": 1666875371447
             }
         ]
     },
@@ -66,13 +71,18 @@
                 },
                 {
                     "language": "RU",
-                    "text": "Базовый Asset сессии: капитал в BTC не присваивается.",
-                    "updated": 1636929551268
+                    "text": "Session Base Asset (Базовый актив сессии): капитал в BTC не назначается.",
+                    "updated": 1641832734731
                 },
                 {
                     "language": "ID",
                     "text": "Session Base Asset: tidak ada modal yang ditetapkan dalam BTC.",
                     "updated": 1639747618439
+                },
+                {
+                    "language": "NL",
+                    "text": "Session Base Asset: er wordt geen kapitaal toegewezen in BTC.",
+                    "updated": 1666875409526
                 }
             ],
             "updated": 1640288657193
@@ -105,13 +115,18 @@
                 },
                 {
                     "language": "RU",
-                    "text": "Котируемый Asset сессии: 1000 USDT за начальный капитал.",
-                    "updated": 1636929599187
+                    "text": "Session Quoted Asset (Котируемый актив сессии): 1000 USDT начального капитала.",
+                    "updated": 1641832810681
                 },
                 {
                     "language": "ID",
                     "text": "Session Quoted Asset: 1000 USDT dari modal awal.",
                     "updated": 1639747647586
+                },
+                {
+                    "language": "NL",
+                    "text": "Session Quoted Asset: 1000 USDT aan startkapitaal.",
+                    "updated": 1666875425518
                 }
             ]
         },
@@ -143,13 +158,18 @@
                 },
                 {
                     "language": "RU",
-                    "text": "Временной диапазон: мы протестируем один день 01-09-2020",
-                    "updated": 1636929643689
+                    "text": "Time Range (Временной диапазон): мы будем тестировать один день, 2020-09-01.",
+                    "updated": 1641832891534
                 },
                 {
                     "language": "ID",
                     "text": "Time Range: kami akan menguji dalam satu hari, 2020-09-01.",
                     "updated": 1639747681537
+                },
+                {
+                    "language": "NL",
+                    "text": "Time Range: we testen één enkele dag, 01-09-2020.",
+                    "updated": 1666875447838
                 }
             ]
         },
@@ -181,13 +201,18 @@
                 },
                 {
                     "language": "RU",
-                    "text": "Временные рамки: заказы размещаются/отменяются каждую минуту, поэтому подходит 1 минута.",
-                    "updated": 1636929775030
+                    "text": "Time Frame (Таймфрейм): ордера размещаются/отменяются каждую минуту, поэтому подходит 01-мин.",
+                    "updated": 1641832993200
                 },
                 {
                     "language": "ID",
                     "text": "Time Frame: order ditempatkan/dibatalkan setiap menit, jadi 01-menit sesuai.",
                     "updated": 1639747733061
+                },
+                {
+                    "language": "NL",
+                    "text": "Time Frame: bestellingen worden elke minuut geplaatst/geannuleerd, dus 01-min is geschikt.",
+                    "updated": 1666875465702
                 }
             ]
         },
@@ -220,13 +245,18 @@
                 },
                 {
                     "language": "RU",
-                    "text": "Проскальзование: в данном случае это не имеет значения, т.к. данная конкретная торговая система использует только лимитные ордера.",
-                    "updated": 1636930096197
+                    "text": "Slippage (Проскальзование): в данном случае это не имеет значения, т.к. данная конкретная торговая система использует только лимитные ордера.",
+                    "updated": 1641833026230
                 },
                 {
                     "language": "ID",
                     "text": "Slippage: itu tidak relevan untuk kasus ini, karena sistem perdagangan khusus ini hanya menggunakan pesanan terbatas.",
                     "updated": 1639747757651
+                },
+                {
+                    "language": "NL",
+                    "text": "Slippage: het is in dit geval niet relevant, omdat dit specifieke handelssysteem alleen limietorders gebruikt.",
+                    "updated": 1666875484854
                 }
             ]
         },
@@ -258,8 +288,13 @@
                 },
                 {
                     "language": "RU",
-                    "text": "Структура оплаты:  0.1%  - это нижний уровень на Binance.",
-                    "updated": 1636930145101
+                    "text": "Fee Structure (Структура комиссии): 0,1% - это просто пример.",
+                    "updated": 1641832713243
+                },
+                {
+                    "language": "NL",
+                    "text": "Fee Structure: 0.1% is slechts een voorbeeld.",
+                    "updated": 1666875514167
                 }
             ],
             "updated": 1640359705451
@@ -300,6 +335,11 @@
                     "language": "ID",
                     "text": "Parameter yang tersisa tidak mempengaruhi simulasi. Untuk mempelajari lebih lanjut tentang Trading Parameters, lihat documentation.",
                     "updated": 1639747598611
+                },
+                {
+                    "language": "NL",
+                    "text": "De overige parameters hebben geen invloed op de simulatie. Bekijk de documentatie voor meer informatie over Trading Parameters.",
+                    "updated": 1666875543591
                 }
             ]
         }

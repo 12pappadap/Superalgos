@@ -15,9 +15,19 @@
                 "updated": 1639252535020
             },
             {
+                "language": "RU",
+                "text": "Вы видели полосы Боллинджера и знаете, как их читать... Можете ли вы придумать торговую идею для построения стратегии?",
+                "updated": 1640890491546
+            },
+            {
                 "language": "TR",
                 "text": "Bollinger Bantlarını gördünüz ve onları nasıl okuyacağınızı biliyorsunuz... Bir strateji oluşturmak için bir ticaret fikri düşünebilir misiniz?",
                 "updated": 1640947506140
+            },
+            {
+                "language": "ES",
+                "text": "Hemos visto las bandas de Bollinger y sabemos cómo leerlas... ¿Se te ocurre alguna idea de trading con la que construir una estrategia?",
+                "updated": 1668190858753
             }
         ]
     },
@@ -32,9 +42,19 @@
                     "updated": 1639252544363
                 },
                 {
+                    "language": "RU",
+                    "text": "Уделите несколько минут работе с этой таблицей и посмотрите, сможете ли вы что-нибудь придумать!",
+                    "updated": 1640890564079
+                },
+                {
                     "language": "TR",
                     "text": "Bu çizelgede birkaç dakika dolaşın ve bir şeyler bulabilecek misiniz bir bakın!",
                     "updated": 1640947545847
+                },
+                {
+                    "language": "ES",
+                    "text": "Tómate unos minutos para explorar este gráfico y ver si se te ocurre algo.",
+                    "updated": 1668190879532
                 }
             ]
         },
@@ -48,9 +68,19 @@
                     "updated": 1639252553967
                 },
                 {
+                    "language": "RU",
+                    "text": "Индикаторы обычно строятся аналитиками и трейдерами для математического описания торговых идей.",
+                    "updated": 1640890575776
+                },
+                {
                     "language": "TR",
                     "text": "Not: Göstergeler genellikle ticaret fikirlerini matematiksel olarak tanımlamak için analistler ve trader'lar tarafından oluşturulur.",
                     "updated": 1640947566429
+                },
+                {
+                    "language": "ES",
+                    "text": "Los indicadores suelen ser construidos por analistas y traders para describir matemáticamente ideas de trading.",
+                    "updated": 1668190897306
                 }
             ]
         },
@@ -64,9 +94,19 @@
                     "updated": 1639252562061
                 },
                 {
+                    "language": "RU",
+                    "text": "Идея, которую мы обсудим дальше, связана с прорывами! Но это лишь одна из четырех или пяти популярных идей с использованием этого индикатора!",
+                    "updated": 1640890595887
+                },
+                {
                     "language": "TR",
                     "text": "İpucu: Daha sonra tartışacağımız fikir, kırılmalarla ilgili! Ancak bu, bu göstergeyi kullanan dört veya beş popüler fikirden yalnızca biri!",
                     "updated": 1640947587516
+                },
+                {
+                    "language": "ES",
+                    "text": "La idea que vamos a discutir a continuación tiene que ver con las rupturas. Pero esa es sólo una de las cuatro o cinco ideas populares que utilizan este indicador.",
+                    "updated": 1668190930672
                 }
             ]
         }

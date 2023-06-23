@@ -30,8 +30,8 @@
             },
             {
                 "language": "FR",
-                "text": "Lorsque vous exécutez le frontend, utilisez Chrome, ou Safari sur Mac, nous ne faisons pas de tests sur d'autres navigateurs !",
-                "updated": 1623950198517,
+                "text": "Lorsque vous exécutez le client, utilisez Chrome, ou Safari sur Mac, nous ne faisons pas de tests sur d'autres navigateurs!",
+                "updated": 1666252552932,
                 "style": "Definition"
             },
             {
@@ -323,7 +323,7 @@
                 },
                 {
                     "language": "RU",
-                    "text": "Мы предлагаем online поддержку, но мы не можем помочь Вам в работе с каким-либо другим браузером!",
+                    "text": "Мы предлагаем online поддержку, но мы не можем помочь вам в работе с каким-либо другим браузером!",
                     "updated": 1635450697046
                 }
             ]

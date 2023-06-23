@@ -3,18 +3,16 @@ const compression = require('compression');
 const cors = require('cors');
 const routes = require('./routes');
 
-exports.DesktopBackend = (port, SA, DK) => {
+exports.DesktopBackend = (port, SA, ST) => {
     try {
 
         let server;
 
         const app = express();
-        const webAppInterface = DK.projects.socialTrading.modules.webAppInterface.newSocialTradingModulesWebAppInterface();
-
 
         app.use(function (req, res, next) {
             global.SA = SA;
-            global.webAppInterface = webAppInterface;
+            global.webAppInterface = ST.socialTradeApp.webAppInterface;
             next();
         });
 
